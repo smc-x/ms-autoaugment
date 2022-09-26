@@ -1,3 +1,5 @@
+> Credits partially to [@lukeluocn](https://github.com/lukeluocn), partially to MindSpore authors.
+
 # README
 
 - [Content](#content)
